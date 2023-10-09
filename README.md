@@ -2,11 +2,12 @@
 
 This is a supply chain analytics project. In which conducted an analysis of supply chain inefficiencies, and developed informative dashboards to inform business stakeholders of potential issues, along with proposing strategic business enhancements.
 
-**Blog Post** : Here[https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-08fe4f8eb2d2]
+**Blog Post** : [Here](https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-08fe4f8eb2d2)
+**Tableau  Dashboard Link** :  [Here](https://public.tableau.com/app/profile/poojapatel26/viz/SupplyChainAnalytics_16964651727060/SupplyChainAnalytics)
 
 **Dashboard Sceenshot** : 
 
-
+()
 
 
 
@@ -64,10 +65,6 @@ Product: Specific information about the ordered item including product name, pro
 
 Warehouse Inventory: Information on inventory management for each product name including monthly inventory, warehouse location, storage costs, order fulfillment
 
-## Anaysis Using Tableau 
-
-Tableau Dashboard Link : Here[]
-
 ## Key Insights 
 **1 Profit & Cost :**
 * Most Profitable Product Department
@@ -84,7 +81,7 @@ Tableau Dashboard Link : Here[]
 
 **4 Order Fulfillment Days:**
 
-Detailed analysis including feature metric, Key insights and suggestion can be found of medium Blog Post : Here[https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-08fe4f8eb2d2]
+Detailed analysis including feature metric, Key insights and suggestion can be found of medium Blog Post : [Here](https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-08fe4f8eb2d2)
 
 ## Sugesstions 
 
