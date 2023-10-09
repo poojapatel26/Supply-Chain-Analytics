@@ -44,6 +44,7 @@ Overall story of Create an interactive dashboard to summarize the research of th
 ## Data Pre-Processing & Data Cleaning 
 
 The data pre-procesing and Data cleaning is done using Python. 
+Detailed Notebook : [Here](https://github.com/poojapatel26/Supply-Chain-Analytics/blob/main/Supply_Chain_Analytics.ipynb)
 
 ## Data Overview 
 The dataset provides three data tables including order_and_shipment, inventory and fulfillment. After examining the data fields, I noticed that the dataset generally represents the following key information
